@@ -1,6 +1,6 @@
 # Node.jsでUser Agentを設定・変更する方法
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/) 
 
 このガイドでは、Node.jsで`User-Agent`ヘッダーを設定する方法と、アンチボット検知を回避するためにユーザーエージェントローテーションを実装する方法を、[scraping with node.js](https://brightdata.jp/blog/how-tos/web-scraping-with-node-js)を行う際の観点から解説します。
 
@@ -392,7 +392,7 @@ getFetchUserAgent();
 
 スクリプトを3〜4回実行してください。統計的に、以下のように異なるUser Agentレスポンスが表示されるはずです。
 
-![different user agent responses](https://github.com/luminati-io/node-js-user-agent/blob/main/images/different-user-agent-responses-1024x298.png)
+![different user agent responses](https://github.com/bright-jp/node-js-user-agent/blob/main/images/different-user-agent-responses-1024x298.png)
 
 これは、user agent rotationが効果的に機能していることを示しています。
 
